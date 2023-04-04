@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String hanz = "pangit mo randall bobo shunga";
+        String hanz = "pangit mo randall";
     }
 }
