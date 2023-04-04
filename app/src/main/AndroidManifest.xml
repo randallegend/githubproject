@@ -10,15 +10,6 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.LupetProject"
-        tools:targetApi="31">
-        <activity
-            android:name=".ThirdActivity"
-            android:exported="false"
-            android:label="@string/title_activity_third"
-            android:theme="@style/Theme.LupetProject.NoActionBar" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="false" />
-    </application>
+        tools:targetApi="31"></application>
 
 </manifest>
